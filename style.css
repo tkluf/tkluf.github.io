@@ -12,6 +12,19 @@ li {
     list-style-type: none;
     text-align: center;
 }
+
+.wwqe {
+    width: auto;
+}
+.nnn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    min-height: 100vh;
+
+
+}
 a {
     text-decoration: none;
     color: white;
@@ -19,6 +32,30 @@ a {
 ol  {
     color: white;
 }
+td {
+    color: white;
+    
+}
+tr {
+    color: rgb(255, 255, 255);
+}
+th {
+
+    text-shadow: 19px;
+   
+}
+.anime {
+    color:rgb(186, 186, 186);
+}
+table{
+    position: relative;
+    border-color: white;
+    border-style: groove;
+    align-content: center;
+    text-align: center;
+}
+
+
 .midix {
     text-decoration: none;
     color: black;
